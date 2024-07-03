@@ -1,0 +1,6 @@
+pandas
+numpy
+bs4
+nltk
+textblob
+better-profanity
